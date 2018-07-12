@@ -2,7 +2,7 @@
 
 A free web analytics and search engine optimization tools better than Google analytics :)
 
-Note: Remember to get your free API key at userly.org / Example API key shown below will not work
+Note: Remember to get your free API key at userly.org 
 If you have any issue, please create a ticket at https://support.unelmaplatform.com 
 
 
