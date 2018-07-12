@@ -2,6 +2,8 @@
 
 A free web analytics and search engine optimization tools better than Google analytics :)
 
+Note: Remember to get your free API key at userly.org / Example API key shown below will not work
+
 # Documentation
 
 ## Get Content Overview Data (Your website)
